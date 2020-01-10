@@ -118,7 +118,7 @@ Redis 也可能会挂，Redis 本身提供哨兵 (Sentinel) 机制保证集群�
 # 技术交流
 ![tech-support-qq](https://raw.github.com/ctripcorp/x-pipe/master/doc/xpipe_qq.png)
 
-
+#### 按照按照文档 按照顺序zk，console，metadata，keeper
 <a name="license"></a>
 # License
 The project is licensed under the [Apache 2 license](https://github.com/ctripcorp/x-pipe/blob/master/LICENSE).
